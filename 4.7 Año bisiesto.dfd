@@ -1,0 +1,34 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+44
+'Ingresen el año para saberr si es bisiesto'
+5
+1
+3
+año
+7
+0
+1
+54
+año mod 4 = 0 AND año mod 200 != 0 OR año mod 400 = 0 
+4
+1
+34
+'El año  ',año,'   no es bisiesto'
+13
+4
+1
+30
+'El año  ',año,'  es bisiesto'
+13
+4
+1
+8
+'Denada'
+1

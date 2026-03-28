@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+92
+'Senor usuario dijite su numero para identificar si es par o impar entre el rango de 1 a 10'
+5
+1
+3
+num
+7
+0
+1
+18
+num>=1 AND num<=10
+4
+1
+38
+'Numero no esta en el rango permitido'
+13
+7
+0
+1
+41
+1=num OR 3=num OR 5=num OR 7=num OR 9=num
+4
+1
+15
+num, '  Es par'
+13
+4
+1
+17
+num, '  Es impar'
+13
+13
+4
+1
+8
+'Denada'
+1
